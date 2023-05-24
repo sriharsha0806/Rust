@@ -1,0 +1,2 @@
+# Rust
+Contains Rust Snippets
